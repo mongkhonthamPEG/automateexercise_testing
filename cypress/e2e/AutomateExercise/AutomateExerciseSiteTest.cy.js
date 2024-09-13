@@ -48,8 +48,13 @@ describe('Automate Exercise Site Testing',() => {
         cy.get('[data-qa="continue-button"]').click()
     }) 
 
-    it('',() => {
-
+    it('Login user with correct email and password',() => {
+        // Select for Login Button
+        cy.get('[class="fa fa-lock"]').click()
+        // Input email
+        cy.get('[data-qa="login-email"]').type('p_automate@gmail.com')
+        // Select for login Button
+        cy.get('[data-qa="login-button"]').click()
     })
 }
 )
