@@ -7,10 +7,8 @@ This Test is a part of my self-study of QA Career path.
 * Cypress <br>
 
 # Work Flow
-Start from 
-Diner Account login > Select Course > Input Details > compare details >  Send booking request > logout <br>
-Chef Account login > Compare Details > Accept Booking request > logout <br>
-Diner Account login > Compare Details > Input payment details > 2c2p otp > payment success > finish flow<br>
-
+For examine the scripts, it is located in Cypress >> e2e/AutomateExercise <br>
+This script contains multiple test cases. <br>
+Which the cases can be access here >> TBA <br>
 # Configuration
 #TBA
