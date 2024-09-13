@@ -10,5 +10,6 @@ This Test is a part of my self-study of QA Career path.
 For examine the scripts, it is located in Cypress >> e2e/AutomateExercise <br>
 This script contains multiple test cases. <br>
 Which the cases can be access here >> TBA <br>
+
 # Configuration
 #TBA
