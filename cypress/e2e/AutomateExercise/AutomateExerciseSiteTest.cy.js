@@ -47,5 +47,9 @@ describe('Automate Exercise Site Testing',() => {
         cy.get('[data-qa="account-deleted"]').should('exist')
         cy.get('[data-qa="continue-button"]').click()
     }) 
+
+    it('',() => {
+
+    })
 }
 )
